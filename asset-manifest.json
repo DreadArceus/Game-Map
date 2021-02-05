@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Game-Map/static/css/main.389c5a46.chunk.css",
+    "main.js": "/Game-Map/static/js/main.f212fb94.chunk.js",
+    "main.js.map": "/Game-Map/static/js/main.f212fb94.chunk.js.map",
+    "runtime-main.js": "/Game-Map/static/js/runtime-main.d276ef44.js",
+    "runtime-main.js.map": "/Game-Map/static/js/runtime-main.d276ef44.js.map",
+    "static/js/2.20b7ed5d.chunk.js": "/Game-Map/static/js/2.20b7ed5d.chunk.js",
+    "static/js/2.20b7ed5d.chunk.js.map": "/Game-Map/static/js/2.20b7ed5d.chunk.js.map",
+    "static/js/3.e21523f1.chunk.js": "/Game-Map/static/js/3.e21523f1.chunk.js",
+    "static/js/3.e21523f1.chunk.js.map": "/Game-Map/static/js/3.e21523f1.chunk.js.map",
+    "index.html": "/Game-Map/index.html",
+    "static/css/main.389c5a46.chunk.css.map": "/Game-Map/static/css/main.389c5a46.chunk.css.map",
+    "static/js/2.20b7ed5d.chunk.js.LICENSE.txt": "/Game-Map/static/js/2.20b7ed5d.chunk.js.LICENSE.txt",
+    "static/media/map-img.e54f4fe1.png": "/Game-Map/static/media/map-img.e54f4fe1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d276ef44.js",
+    "static/js/2.20b7ed5d.chunk.js",
+    "static/css/main.389c5a46.chunk.css",
+    "static/js/main.f212fb94.chunk.js"
+  ]
+}
